@@ -1,0 +1,1 @@
+# Pasta onde fica localizado o arquivo do banco de dados SQLite
